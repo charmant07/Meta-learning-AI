@@ -1,0 +1,8 @@
+{
+  "ai_name": "THINKER-GOAT",
+  "use_tts": true,
+  "tts_engine": "espeak",
+  "learning_rate": 0.25,
+  "memory_size": 1000,
+  "tools_enabled": true
+}
