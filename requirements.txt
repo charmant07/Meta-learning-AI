@@ -1,0 +1,5 @@
+numpy
+pyttsx3
+gtts
+requests
+python-dotenv
